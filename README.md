@@ -22,3 +22,5 @@ find . -name '*.gyb' |
 4. Secrets.swift should appear, add it to the project inside XCode
 5. Add Secrets.swift and secrets.json to your .gitignore file
 6. Enjoy! 🎉
+
+Reference: [Secret Management on iOS](https://nshipster.com/secrets/)
